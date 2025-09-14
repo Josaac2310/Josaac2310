@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jose Carlos
+# 👋 Hola Soy Jose Carlos
 
 🎓 Desarrollador de software de 19 años con experiencia en desarrollo web, móvil y backend. Me apasiona aprender nuevas tecnologías y crear soluciones funcionales con enfoque práctico. Actualmente desarrollo proyectos en Java, Kotlin, Python y frameworks web modernos.
 
